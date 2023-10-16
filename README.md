@@ -1,1 +1,1 @@
-# Mini_Project2
+# Leetcode_SQL_question
